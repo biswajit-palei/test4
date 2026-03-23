@@ -11,7 +11,7 @@ public class Test4Application {
 		int x=100;
 		boolean isPresent=false;
 		float m=10.3;
-		
+		char i='n';
 		SpringApplication.run(Test4Application.class, args);
 	}
 
