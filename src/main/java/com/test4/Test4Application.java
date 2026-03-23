@@ -16,6 +16,7 @@ public class Test4Application {
 		double z=10.3;
 		boolean isPresent=false;
 		float m=10.3f;
+		char ch='x'
                 boolean isSub=true;
 		SpringApplication.run(Test4Application.class, args);
 	}
